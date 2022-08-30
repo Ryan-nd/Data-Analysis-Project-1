@@ -1,4 +1,4 @@
-# Data-Analysis-Project-1
+# Data-Science-Project-1
 Computation of text processing, exploration and visualization techniques Using Python 
 
 This README contains detailed attribute descriptions for the dataset provided with this assignment.
